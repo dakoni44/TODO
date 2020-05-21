@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="toast_key">toast_settings</string>
+    <string name="notif_key">notif_setings</string>
+</resources>
